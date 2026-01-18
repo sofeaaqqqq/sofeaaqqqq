@@ -1,1 +1,3 @@
+# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6bd97ffa-4e37-429d-9115-d38eeea59d8e" /> Deisgn Thinking
+
 After going through the process of the Design Thinking Project, I have learned a lot while working on it. This project has reshaped the way I approach problem-solving by teaching me to not go too fast, understand the user’s perspective, and refine ideas through continuous testing rather. Learning and applying new concepts were both engaging and rewarding. It has motivated me to continue developing these skills for future academic and professional projects.
