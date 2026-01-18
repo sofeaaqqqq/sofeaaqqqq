@@ -1,3 +1,3 @@
-# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d99ef53-1fe9-4b1d-9cf4-ce818a4dee32" /> Academic Report
+# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3d99ef53-1fe9-4b1d-9cf4-ce818a4dee32" /> Industrial Talk: Academic Report
 
 From what I have learned from the talk, it has helped me realise that computer science involves much more than just coding, as system development and proper project management are crucial in real-world applications. I will deepen my understanding of system development processes and apply problem-solving techniques through hands-on projects and real industry-related tasks. I also plan to improve my teamwork, communication, and time management skills by actively engaging in group work and discussions.
