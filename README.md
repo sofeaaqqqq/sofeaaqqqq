@@ -1,11 +1,11 @@
 # <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/514f98b7-6f59-42c5-890d-0baca9f53ad7" /> E-Portfolio
 
 <div align="center">
-  <img src="![WhatsApp Image 2026-01-19 at 7 31 32 AM](https://github.com/user-attachments/assets/91d074a7-44b9-4b93-8af3-49de45d63a40)
-" alt="Profile Picture" width="200"/>
+  <img src="https://github.com/user-attachments/assets/fa1acb95-ff74-499a-a330-d59b5d5afbaf" width="200" />
 
-  Computer Science Student at Universiti Teknologi Malaysia
+  <p><strong>Computer Science Student at Universiti Teknologi Malaysia</strong></p>
 </div>
+
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/203b020c-543c-4bb8-912d-3684d5f9137d" /> Hello! I am Sofea Qistina, a Computer Science (Computer Networks and Security) major, who is gaining experience in programming, systems, and problem-solving.
 
@@ -38,22 +38,22 @@
 
 # <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81603385-75a0-48b5-b229-222610c41d43" /> Assignments
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d91eddfa-d57e-4ac3-aea8-6a6f0e2255f1" /> Assigntment 1: Industry Visit (Video)
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/52f590f2-02ad-41b9-b1bc-d3328d4c69c9" /> Assigntment 1: Industry Visit (Video)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3a5c974d-930b-458c-8029-b034a0c09461" /> [Watch Video](Assignments/assignment-1-industrial-visit-video.md)
+
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6105f7b0-d04a-470a-b07b-395b98591e20" /> Assignment 2: Industry Talk (Poster)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/423d850c-4b27-4282-a0c9-2f07bdc99679" /> [View Poster](Assignments/assignment-2-industrial-talk-poster.md)
+
+### Assignment 3: Industry Talk (Academic Report)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cd03dcad-3d84-4f3c-afc3-96162bf6d554" /> [Read Report](Assignments/assignment-3-industrial-talk-academic-report.md)
+
+### Assignment 4: Industry Visit (Newsletter)
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/309b0a98-b4e9-4907-8995-ff9fc64d7288" /> [View Newsletter](Assignments/assignment-4-industrial-visit-newsletter.md)
+
+### <img width="30" height="27" alt="image" src="https://github.com/user-attachments/assets/0b2cc837-9ea5-4e62-981b-5b1397a5de7f" /> PC Assemble (Lab)
 
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6105f7b0-d04a-470a-b07b-395b98591e20" /> Assignment 2: Industry Talk (Poster)
-
-
-## Assignment 3: Industry Talk (Academic Report)
-
-
-## Assignment 4: Industry Visit (Newsletter)
-
-
-## <img width="30" height="27" alt="image" src="https://github.com/user-attachments/assets/0b2cc837-9ea5-4e62-981b-5b1397a5de7f" /> PC Assemble (Lab)
-
-
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/91efbe68-a7a5-4931-bb8d-e8302f7fa256" /> Design Thinking (Low Fidelity Prototype)
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/91efbe68-a7a5-4931-bb8d-e8302f7fa256" /> Design Thinking (Low Fidelity Prototype)
 
 
 
