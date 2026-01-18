@@ -1,7 +1,8 @@
 # <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/514f98b7-6f59-42c5-890d-0baca9f53ad7" /> E-Portfolio
 
 <div align="center">
-  <img src="path_or_url_to_image" alt="Profile Picture" width="200"/>
+  <img src="![WhatsApp Image 2026-01-19 at 7 31 32 AM](https://github.com/user-attachments/assets/91d074a7-44b9-4b93-8af3-49de45d63a40)
+" alt="Profile Picture" width="200"/>
 
   Computer Science Student at Universiti Teknologi Malaysia
 </div>
