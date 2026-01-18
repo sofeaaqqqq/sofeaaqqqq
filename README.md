@@ -30,8 +30,8 @@
 ---
 
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/39cfaec7-328f-4445-a0cb-bb2308a715e1" /> Certificates
-- SPM
-- Matriculation
+- SPM (Science Stream)
+- Matriculation (Computer Science Stream)
 
 ---
 
