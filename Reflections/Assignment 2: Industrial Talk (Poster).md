@@ -1,0 +1,3 @@
+# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2ab85c46-80bd-48b6-92fd-920dbdcdfe08" /> Industrial Talk (Poster)
+
+Attending the industrial talk by PPG gave me a clearer understanding of how information technology is applied in a large global company. I learned how systems such as data analytics platforms, cloud services, and monitoring tools support real industrial operations like supply chains, factory processes, and customer services. The talk highlighted how connected systems enable faster and more accurate decision-making. It also motivated me to develop key skills such as cloud computing, data handling, and cybersecurity for my future career.
