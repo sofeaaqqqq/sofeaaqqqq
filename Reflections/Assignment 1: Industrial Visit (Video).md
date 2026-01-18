@@ -1,0 +1,3 @@
+# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ed22ced7-8f2a-44ae-9b87-3edad2f7a7ea" /> Industrial Visit (Video)
+
+From this industrial visit, I have gained more insight regarding the UTM Smart app and how it is operated. There were a lot of information that were presented to explain how the application works. It had helped me understand how digital innovations help to support university operations or even a whole corporation. The visit had gave a new perspective as someone who has not experineced the real world yet about how classroom concepts are applied into reality.
