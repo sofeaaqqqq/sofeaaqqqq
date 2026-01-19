@@ -1,4 +1,4 @@
-# <img width="21" height="37" alt="image" src="https://github.com/user-attachments/assets/4c9b6f12-d0dc-4222-80af-13088dbe4b08" /> E-Portfolio
+# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b74d5d37-c258-47d7-961f-af47c9a2f570" /> E-Portfolio
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fa1acb95-ff74-499a-a330-d59b5d5afbaf" width="200" />
