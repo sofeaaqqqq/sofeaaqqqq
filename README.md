@@ -32,6 +32,10 @@
 - SPM (Science Stream)
 - Matriculation (Computer Science Stream)
 
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ba83202a-96b6-4d43-836d-e333f4e1a388" /> Social
+- [LinkedIn](https://www.linkedin.com/in/sofea-qistina-5300223a7/)
+
+
 ---
 
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/81603385-75a0-48b5-b229-222610c41d43" /> Assignments
